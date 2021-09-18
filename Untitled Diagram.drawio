@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T16:29:24.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yk9B9w2cZ67DIIch3nEV" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T18:22:55.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ljawZ2ihs6Zf4nqzjazG" version="15.2.9" type="github">
   <diagram id="FA7UBe5_Pa2u_HeW7HIF" name="Page-1">
-    <mxGraphModel dx="1422" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="834" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
             <mxPoint x="-130" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Hc2PI4Ob-_sRr31-LG4-30" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.705;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-14" target="7Hc2PI4Ob-_sRr31-LG4-27" edge="1">
+        <mxCell id="7Hc2PI4Ob-_sRr31-LG4-30" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.571;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-14" target="7Hc2PI4Ob-_sRr31-LG4-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="120" as="sourcePoint" />
             <mxPoint x="-30" y="70" as="targetPoint" />
@@ -155,7 +155,7 @@
           <mxGeometry x="720" y="220" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Hc2PI4Ob-_sRr31-LG4-45" value="Minor Dept." style="rhombus;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="550" y="275" width="110" height="40" as="geometry" />
+          <mxGeometry x="575" y="275" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Hc2PI4Ob-_sRr31-LG4-47" value="Department" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="250" width="120" height="30" as="geometry" />
@@ -281,7 +281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Hc2PI4Ob-_sRr31-LG4-92" value="Takes_Class" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="350" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7Hc2PI4Ob-_sRr31-LG4-96" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-92" target="7Hc2PI4Ob-_sRr31-LG4-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -311,10 +311,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvncLkASF_yhk4bxJBFR-15" value="SSN" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+        <mxCell id="rvncLkASF_yhk4bxJBFR-15" value="SSN Number" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="210" y="110" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rvncLkASF_yhk4bxJBFR-16" value="SSN number" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
+        <mxCell id="rvncLkASF_yhk4bxJBFR-16" value="Student number" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="110" y="105" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rvncLkASF_yhk4bxJBFR-19" value="Departnment Code" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
@@ -327,10 +327,10 @@
           <mxGeometry x="930" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rvncLkASF_yhk4bxJBFR-22" value="Letter Grade" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
-          <mxGeometry x="440" y="750" width="100" height="40" as="geometry" />
+          <mxGeometry x="500" y="720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rvncLkASF_yhk4bxJBFR-23" value="Numerical Grade" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
-          <mxGeometry x="330" y="750" width="100" height="40" as="geometry" />
+          <mxGeometry x="410" y="760" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="igYzyitTkwnPRy1HkWMS-1" value="" style="endArrow=none;html=1;entryX=0.025;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-47" target="rvncLkASF_yhk4bxJBFR-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -347,7 +347,7 @@
         <mxCell id="7Hc2PI4Ob-_sRr31-LG4-1" value="student" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="245" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="igYzyitTkwnPRy1HkWMS-15" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-92" target="7Hc2PI4Ob-_sRr31-LG4-1">
+        <mxCell id="igYzyitTkwnPRy1HkWMS-15" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-92" target="7Hc2PI4Ob-_sRr31-LG4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="409.98" y="640" as="sourcePoint" />
             <mxPoint x="410" y="264" as="targetPoint" />
@@ -432,7 +432,7 @@
             <mxPoint x="970" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="igYzyitTkwnPRy1HkWMS-48" value="" style="endArrow=none;html=1;entryX=0.915;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-45" target="7Hc2PI4Ob-_sRr31-LG4-1">
+        <mxCell id="igYzyitTkwnPRy1HkWMS-48" value="" style="endArrow=none;html=1;entryX=0.915;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7Hc2PI4Ob-_sRr31-LG4-45" target="7Hc2PI4Ob-_sRr31-LG4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="450" as="sourcePoint" />
             <mxPoint x="640" y="400" as="targetPoint" />
@@ -464,6 +464,9 @@
           <mxGeometry x="0.2923" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="igYzyitTkwnPRy1HkWMS-59" value="&lt;h1&gt;Database Management Systems&lt;/h1&gt;&lt;p&gt;Name: Sree Hari&amp;nbsp; Thiriveedhi.&lt;/p&gt;&lt;p&gt;CRN: 21780&lt;/p&gt;&lt;p&gt;UIN: 01086555&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
